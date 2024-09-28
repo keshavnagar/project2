@@ -6,3 +6,5 @@ okay so we add more changes
 
 lets check how it see in our GH profile 
 
+for git push -u origin main 
+
